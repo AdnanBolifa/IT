@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="get_started">Get Started</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_malesuada_dignissim_ac_tempor_vitae_volutpat_mi">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada dignissim ac tempor vitae, volutpat. Mi.</string>
+    <string name="todo">TODO</string>
+    <string name="choose_sjubject">Choose Sjubject</string>
+    <string name="choose_subject">Choose subject</string>
+    <string name="listenting">lisenting</string>
+</resources>
